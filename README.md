@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batyrovv&label=Profile%20views&color=0e75b6&style=flat" alt="batyrovv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batyrovv" alt="batyrovv" /></a> </p>
-
 - 🌱 I’m currently learning **NodeJS, ExpressJS & MangoDB**
 
 - 💬 Ask me about **ReactJS**
